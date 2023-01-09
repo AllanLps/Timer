@@ -1,0 +1,19 @@
+@import url(button.css);
+
+body{
+    background-color: #F5F5F5;
+    margin: 4rem;
+}
+
+.container{
+   text-align: center;
+   font-size: 32px;
+}
+
+.timer-number {
+
+    color: #000000;
+}
+
+
+
